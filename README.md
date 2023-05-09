@@ -18,7 +18,8 @@ The basic idea behind the minimax algorithm is to consider all possible moves th
 - Give 0 if we have a draw
 
 ### intial Board
-![intial Borad](assetes/initial.png:width="20px"}
+![intial Borad](assetes/initial.png)
+
 the next move is 'X' move and we have 3 choses
 The AI try all this choses and (every move equal to a different board)
 
