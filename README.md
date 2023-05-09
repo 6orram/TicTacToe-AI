@@ -29,7 +29,7 @@ The AI try all this choses and (every move equal to a different board)
 ### chose[1,1]
 ![chose1,1](assetes/move1-move1.png)
 
-So Give to this Path -1
+So Give to this Path 1
 
 # PATH 2
 ## chose[1]
@@ -42,6 +42,7 @@ So Give to this Path -1
 So Give to this Path 0
 
 the AI do the same thing to the all other moves
+
 ![Minimax](assetes/minimax.png)
 
 
