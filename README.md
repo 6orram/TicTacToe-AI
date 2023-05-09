@@ -23,8 +23,21 @@ The basic idea behind the minimax algorithm is to consider all possible moves th
 the next move is a 'X' move and it have 3 choses
 The AI try all this choses and (every move equal to a different board)
 
-### chose 1 
+# PATH 1
+## chose[1]
 ![chose1](assetes/move1.png)
+### chose[1,1]
+![chose1,1](assetes/move1-move1.png)
+So Give to this Path -1
+
+# PATH 2
+## chose[1]
+![chose1](assetes/move1.png)
+### chose[1,2]
+![chose1,2](assetes/move1-move2.png)
+### chose[1,2,1]
+![chose1,2,1](assetes/move1-move2-move1.png)
+So Give to this Path 0
 
 
 # Game Instructions
