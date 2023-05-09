@@ -13,7 +13,12 @@ The basic idea behind the minimax algorithm is to consider all possible moves th
 - X : Going to Maximize
 - O : Going to Minimize
 
-## First Move
+- Give -1 if the AI win
+- Give 1 if The AI Lose
+- Give 0 if we have a draw
+
+### intial Board
+![intial Borad](assetes/initial.png)
 
 
 # Game Instructions
