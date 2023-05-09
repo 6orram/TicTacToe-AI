@@ -19,6 +19,11 @@ The basic idea behind the minimax algorithm is to consider all possible moves th
 
 ### intial Board
 ![intial Borad](assetes/initial.png)
+the next move is 'X' move and we have 3 choses
+The AI try all this choses and (every move equal to a different board)
+
+### chose 1 
+![chose1](assetes/move1.png)
 
 
 # Game Instructions
