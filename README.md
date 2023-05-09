@@ -39,6 +39,8 @@ So Give to this Path -1
 ![chose1,2,1](assetes/move1-move2-move1.png)
 So Give to this Path 0
 
+#
+
 
 # Game Instructions
 - press 'g' to change gamemode (pvp or ai)
