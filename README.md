@@ -9,6 +9,13 @@ Minimax is a decision-making algorithm commonly used in game theory and artifici
 
 The basic idea behind the minimax algorithm is to consider all possible moves that can be made by both players and choose the move that maximizes the AI player's chance of winning, while minimizing the opponent's chance of winning. This is done by recursively evaluating the possible outcomes of each move and selecting the move that leads to the best outcome for the AI player.
 
+# Example :
+- X : Going to Maximize
+- O : Going to Minimize
+
+## First Move
+
+
 # Game Instructions
 - press 'g' to change gamemode (pvp or ai)
 - press '0' to change ai level (easy or unbeatable)
