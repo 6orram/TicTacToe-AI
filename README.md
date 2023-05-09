@@ -28,6 +28,7 @@ The AI try all this choses and (every move equal to a different board)
 ![chose1](assetes/move1.png)
 ### chose[1,1]
 ![chose1,1](assetes/move1-move1.png)
+
 So Give to this Path -1
 
 # PATH 2
@@ -37,9 +38,11 @@ So Give to this Path -1
 ![chose1,2](assetes/move1-move2.png)
 ### chose[1,2,1]
 ![chose1,2,1](assetes/move1-move2-move1.png)
+
 So Give to this Path 0
 
-#
+the AI do the same thing to the all other moves
+![Minimax](assetes/minimax.png)
 
 
 # Game Instructions
@@ -47,8 +50,3 @@ So Give to this Path 0
 - press '0' to change ai level (easy or unbeatable)
 - press 'r' to restart the game
 - press 'p' to change who start (Player or AI)
-
-# Image
-
-
-
