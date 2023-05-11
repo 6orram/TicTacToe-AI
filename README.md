@@ -3,7 +3,7 @@ A Tic Tac Toe unbeatable AI project involves creating a computer program that ca
 The game is played on a 3x3 grid, and the goal is to get three in a row in any direction (horizontal, vertical, or diagonal).
 
 # MiniMax Algorithm
-for make that AI unbeatable i use the Minimax Algorith
+for make that AI unbeatable i use the Minimax Algorithm
 
 Minimax is a decision-making algorithm commonly used in game theory and artificial intelligence to determine the optimal move for a player in a turn-based game. It is particularly useful for two-player games with perfect information, such as Tic Tac Toe, chess...
 
