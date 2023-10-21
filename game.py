@@ -31,7 +31,7 @@ from constant import *
 # PYGAME SETUP
 pygame.init()
 secreen = pygame.display.set_mode((WIDTH, HEIGHT))
-pygame.display.set_caption("TIC TAC TOE BOT")
+pygame.display.set_caption("TIC TAC TOE AI")
 secreen.fill(BG_COLOR)
 
 # Track Movements
